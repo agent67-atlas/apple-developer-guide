@@ -5,10 +5,18 @@
 
 ---
 
-## What's Inside
+## Start Here
+
+### 🧠 [Mental Models for World-Class Apple Development](docs/mental-models.md)
+The thinking frameworks that separate elite iOS/macOS engineers from the rest. Engineering principles, design philosophy, architecture patterns, performance budgets, and security models. **Read this first.**
+
+---
+
+## Reference Guides
 
 | Guide | Description |
 |-------|-------------|
+| [**Mental Models**](docs/mental-models.md) | **Engineering + design thinking frameworks — the WHY behind everything** |
 | [Swift Language](docs/swift.md) | Modern Swift fundamentals, concurrency, protocols, macros |
 | [SwiftUI](docs/swiftui.md) | Declarative UI, state management, navigation, animations |
 | [EventKit](docs/eventkit.md) | Calendar events, reminders, alarms, recurrence, attendees |
